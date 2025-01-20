@@ -65,7 +65,7 @@ const Hero = () => {
         className={`text-xl hero_tag transition-opacity duration-1000 ease-in-out ${gradients[currentTitle]}`}
         key={currentTitle} 
       >
-        <span className='text-9xl'>
+        <span className='lg:text-9xl sm:text-6xl'>
         {titles[currentTitle]}.
         </span>
       </p>   
