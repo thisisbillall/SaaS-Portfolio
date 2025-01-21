@@ -31,6 +31,7 @@ const Hero = () => {
     "Startups",
     "Web 3",
     "Blockchain",
+    "Automation",
     "SaaS",
     "Solopreneur",
     "Open-Source"
@@ -46,6 +47,7 @@ const Hero = () => {
     "text-gradient-blue", 
     "text-gradient-pink",
     "text-gradient-blue", 
+    "text-gradient-pink",
   ]; 
   useEffect(() => {
     const interval = setInterval(() => {
